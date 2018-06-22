@@ -1,0 +1,38 @@
+*{
+    margin: 50px 50px;
+    text-align: center;
+}
+
+h1{
+    border: black;
+    border-style: ridge;
+    border-radius: 50px;
+}
+
+.listItems{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li{
+    color: green;
+    padding: 0.1rem;
+    size: 16px;
+}
+
+h2{
+    color: magenta;
+    size: 50px;
+}
+
+.box {
+    background-color:#333;
+    color: white;
+}
+
+.btn{
+    border:ridge;
+    border-color: magenta;
+    background-color: black;
+    color: white;
+}
